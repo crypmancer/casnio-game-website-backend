@@ -6,6 +6,9 @@ A robust and scalable backend server for a casino-style gaming platform, built w
 
 This backend provides the core functionality for a casino gaming website, including user authentication, game management, wallet transactions, and secure API endpoints. The system is designed to handle real-time gaming operations with a focus on security and reliability.
 
+<img width="1898" height="943" alt="image" src="https://github.com/user-attachments/assets/0a30bf69-5b91-4a9d-b70c-76c96fdc4edd" />
+
+
 ## Features
 
 - 🔐 User Authentication: JWT-based secure authentication system
