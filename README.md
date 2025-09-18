@@ -1,14 +1,40 @@
-# Casino Gambling Website v2
+# Casnio Game Website Backend
 
-Casino Gambling website uses MERN-stack and provides a JSON REST API for clients.
+A robust and scalable backend server for a casino-style gaming platform, built with Node.js and Express.
 
-## How to compile and run
+## Overview
 
-- Navigate to the root directory and with NPM already installed, go ahead and run the command `npm run build`. This will build both the client and the server and compile them into a .zip file.
-- Inside the .zip file you will find the `build` folder will include a compiled react application ready to be served.
-- Also in the file is a folder called `server`. In there you will find a Node.js application without the dependencies installed (this is cut down the file size).
-- You can install the dependencies by navigating into the server root folder and running `npm install`.
+This backend provides the core functionality for a casino gaming website, including user authentication, game management, wallet transactions, and secure API endpoints. The system is designed to handle real-time gaming operations with a focus on security and reliability.
+
+## Features
+
+- 🔐 User Authentication: JWT-based secure authentication system
+
+- 🎰 Game Management: Support for multiple casino games (`Crash`, `Coinflip`, `Jackpot`, `Rolulette`...)
+
+- 💰 Wallet System: Virtual currency transactions and balance management
+
+- 📊 Leaderboards: Player ranking and statistics
+
+- 🔒 Admin Panel: Administrative controls and moderation tools
+
+- 📝 Transaction History: Comprehensive logging of all financial transactions
+
+
+## Tech Stack
+
+- Runtime: Node.js
+
+- Framework: Express.js
+
+- Database: MongoDB with Mongoose ODM
+
+- Authentication: JWT (JSON Web Tokens)
 
 ## Contact Me
 
-https://t.me/devbeast5775
+If you have any question or something, feel free to reach out me anytime.
+<br>
+#### 🌹 You're always welcome 🌹
+
+Telegram: [@crypmancer](https://t.me/crypmancer) <br>
